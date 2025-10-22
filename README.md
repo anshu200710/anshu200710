@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Anshu 👋
+Full Stack MERN Developer passionate about building scalable web apps.  
 
-<!--
-**anshu200710/anshu200710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Frontend: React.js, Redux, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express.js, MongoDB  
+- Tools: Git, Postman, Vercel  
+- Soft Skills: Team collaboration, problem-solving  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+1. E-Commerce Platform – [Live Demo](https://forever-frontend-inky-chi.vercel.app/)  
+2. Job Portal – [Live Demo](https://job-portal-three-kappa.vercel.app/)
