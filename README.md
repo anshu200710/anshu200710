@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshu</h1>
+<h1 align="center">Hi , I'm Anshu</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Specialist | Passionate UI/UX Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu200710&label=Profile%20views&color=0e75b6&style=flat" alt="anshu200710" /> </p>
